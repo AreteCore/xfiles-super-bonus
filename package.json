@@ -1,0 +1,22 @@
+{
+  "name": "xfiles",
+  "version": "1.0.0",
+  "description": "xfiles lab",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon helper.js"
+  },
+  "keywords": [
+    "xfiles"
+  ],
+  "author": "rich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "minimist": "^1.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
